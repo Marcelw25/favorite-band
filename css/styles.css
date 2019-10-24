@@ -1,9 +1,13 @@
-.cities {
+.nav {
   float: right;
   background-color: red;
+  border: 5px dotted blue;
+  padding: 20px;
+  margin: 100px;
 }
 .image {
   float: left;
+  padding: 27px;
 }
 .middle{
   text-align: center;
