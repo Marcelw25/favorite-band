@@ -1,0 +1,14 @@
+.cities {
+  float: right;
+  background-color: red;
+}
+.image {
+  float: left;
+}
+.middle{
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+  width: 300px;
+  height: 300px;
+}
